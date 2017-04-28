@@ -1,0 +1,37 @@
+body{
+    height: 100%;
+    width: 100%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+table{
+    margin: auto !important;
+    border:2px;
+}
+body>div{
+    text-align: center;
+    padding: 5px;
+    border: 1px;
+    border: solid;
+    border-radius: 15px;
+    width: 31%;
+    
+}
+.button{
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  background-color: white;
+  border-radius: 6px;
+  border: 2px solid black;
+}.button1{
+  text-decoration: none;
+  text-align: center;
+  margin-left: 2px;
+  border-radius: 6px;
+  border: 2px solid black;
+}
+.h1{
+    text-align: center;
+}
+
